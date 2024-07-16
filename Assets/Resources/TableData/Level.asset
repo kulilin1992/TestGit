@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea33db3fe349ab24493a759d7425259e, type: 3}
+  m_Name: Level
+  m_EditorClassIdentifier: 
+  LevelDataList:
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 0
+    zombieType: 1
+    bornPos: 0
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 1
+    zombieType: 1
+    bornPos: 1
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 2
+    zombieType: 1
+    bornPos: 2
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 3
+    zombieType: 1
+    bornPos: 3
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 4
+    zombieType: 1
+    bornPos: 4
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 5
+    zombieType: 1
+    bornPos: 1
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 6
+    zombieType: 1
+    bornPos: 1
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 7
+    zombieType: 1
+    bornPos: 2
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 8
+    zombieType: 1
+    bornPos: 2
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 9
+    zombieType: 1
+    bornPos: 3
+  - id: 1
+    levelId: 1
+    progressId: 1
+    createTime: 9
+    zombieType: 1
+    bornPos: 4
+  - id: 2
+    levelId: 1
+    progressId: 2
+    createTime: 3
+    zombieType: 1
+    bornPos: 2
+  - id: 3
+    levelId: 1
+    progressId: 2
+    createTime: 5
+    zombieType: 1
+    bornPos: 3
+  - id: 4
+    levelId: 1
+    progressId: 3
+    createTime: 3
+    zombieType: 1
+    bornPos: 0
+  - id: 5
+    levelId: 1
+    progressId: 3
+    createTime: 4
+    zombieType: 1
+    bornPos: 1
+  - id: 6
+    levelId: 1
+    progressId: 3
+    createTime: 5
+    zombieType: 1
+    bornPos: 2
+  - id: 7
+    levelId: 1
+    progressId: 3
+    createTime: 6
+    zombieType: 1
+    bornPos: 3
+  - id: 8
+    levelId: 1
+    progressId: 3
+    createTime: 7
+    zombieType: 1
+    bornPos: 4
+  - id: 9
+    levelId: 1
+    progressId: 3
+    createTime: 8
+    zombieType: 1
+    bornPos: 0
+  - id: 10
+    levelId: 1
+    progressId: 3
+    createTime: 9
+    zombieType: 1
+    bornPos: 1
+  - id: 11
+    levelId: 1
+    progressId: 3
+    createTime: 10
+    zombieType: 1
+    bornPos: 2
+  - id: 12
+    levelId: 1
+    progressId: 3
+    createTime: 11
+    zombieType: 1
+    bornPos: 3
+  - id: 13
+    levelId: 1
+    progressId: 3
+    createTime: 12
+    zombieType: 1
+    bornPos: 4
+  - id: 14
+    levelId: 1
+    progressId: 3
+    createTime: 13
+    zombieType: 1
+    bornPos: 0
+  - id: 15
+    levelId: 1
+    progressId: 3
+    createTime: 14
+    zombieType: 1
+    bornPos: 1
+  - id: 16
+    levelId: 2
+    progressId: 1
+    createTime: 0
+    zombieType: 2
+    bornPos: 0
+  - id: 17
+    levelId: 2
+    progressId: 2
+    createTime: 3
+    zombieType: 3
+    bornPos: 2
+  - id: 18
+    levelId: 2
+    progressId: 2
+    createTime: 5
+    zombieType: 4
+    bornPos: 3
+  - id: 19
+    levelId: 2
+    progressId: 3
+    createTime: 3
+    zombieType: 5
+    bornPos: 0
+  - id: 20
+    levelId: 2
+    progressId: 3
+    createTime: 4
+    zombieType: 3
+    bornPos: 1
+  - id: 21
+    levelId: 2
+    progressId: 3
+    createTime: 5
+    zombieType: 4
+    bornPos: 2
+  - id: 22
+    levelId: 2
+    progressId: 3
+    createTime: 6
+    zombieType: 5
+    bornPos: 3
+  - id: 23
+    levelId: 2
+    progressId: 3
+    createTime: 7
+    zombieType: 3
+    bornPos: 4
+  - id: 24
+    levelId: 2
+    progressId: 3
+    createTime: 8
+    zombieType: 3
+    bornPos: 0
+  - id: 25
+    levelId: 2
+    progressId: 3
+    createTime: 9
+    zombieType: 3
+    bornPos: 1
+  - id: 26
+    levelId: 2
+    progressId: 3
+    createTime: 10
+    zombieType: 3
+    bornPos: 2
+  - id: 27
+    levelId: 2
+    progressId: 3
+    createTime: 11
+    zombieType: 3
+    bornPos: 3
+  - id: 28
+    levelId: 2
+    progressId: 3
+    createTime: 12
+    zombieType: 3
+    bornPos: 4
+  - id: 29
+    levelId: 2
+    progressId: 3
+    createTime: 13
+    zombieType: 3
+    bornPos: 0
+  - id: 30
+    levelId: 2
+    progressId: 3
+    createTime: 14
+    zombieType: 3
+    bornPos: 1
